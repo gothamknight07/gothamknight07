@@ -16,15 +16,12 @@ I am a programmer and currently working on unique ML/DL projects. I have a passi
 #### Contact With Me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aparnadaspias)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aparna-das-pias/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/PiasDas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/impias/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=
-gothamknight07)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username= gothamknight07)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=
-gothamknight07&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username= gothamknight07&show_icons=true)
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=
-gothamknight07)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username= gothamknight07)  
 
 ![Profile views](https://gpvc.arturio.dev/aparnadaspias)
 
