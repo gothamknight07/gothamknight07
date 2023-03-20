@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gothamknight07&label=Profile%20views&color=0e75b6&style=flat" alt="gothamknight07" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/aparnapias" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/aparnapias?logo=twitter&style=for-the-badge" alt="https://twitter.com/aparnapias" /></a> </p>
 
 - 🔭 I’m currently working on **Medical Image Analysis Using Deep Learning**
 
