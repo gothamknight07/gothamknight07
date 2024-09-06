@@ -4,19 +4,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gothamknight07&label=Profile%20views&color=0e75b6&style=flat" alt="gothamknight07" /> </p>
 
 
-- 🔭 I’m currently working on **Medical Image Analysis Using Deep Learning**
+- Currently working on **Medical Image Analysis Using Deep Learning**
 
-- 🌱 I’m currently studying **Master of Engineering in Biomedical Engineering**
+- Studying **Master of Engineering in Biomedical Engineering**
 
-- 👯 I’m looking to collaborate on **GitHub**
+- Looking to collaborate on **GitHub**
 
-- 👨‍💻 All of my projects are available at [https://gothamknight07.github.io/](https://gothamknight07.github.io/)
+- All of my projects are available at [https://gothamknight07.github.io/](https://gothamknight07.github.io/)
 
-- 💬 Ask me about **AI/ML/DL/Programming**
+- Passionate about exploring AI possibilities in healthcare
 
-- 📫 How to reach me **aparnadaspias.98@gmail.com**
+- Reach me **aparnadaspias.98@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19jtkdwooeZ8I1kH4RX_udUz_mkHs-zhz/view](https://drive.google.com/file/d/19jtkdwooeZ8I1kH4RX_udUz_mkHs-zhz/view)
+- Know about my experiences [https://drive.google.com/file/d/19jtkdwooeZ8I1kH4RX_udUz_mkHs-zhz/view](https://drive.google.com/file/d/19jtkdwooeZ8I1kH4RX_udUz_mkHs-zhz/view)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
