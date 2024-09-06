@@ -10,7 +10,7 @@
 
 - Looking to collaborate on **GitHub**
 
-- All of my projects are available at [https://gothamknight07.github.io/](https://gothamknight07.github.io/)
+- Visit my website https://sites.google.com/view/aparna-das-pias
 
 - Passionate about exploring AI possibilities in healthcare
 
