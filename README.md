@@ -6,13 +6,11 @@
 
 - 🔭 I’m currently working on **Medical Image Analysis Using Deep Learning**
 
-- 🌱 I’m currently learning **Algorithms & Data Structure**
+- 🌱 I’m currently studying **Master of Engineering in Biomedical Engineering**
 
 - 👯 I’m looking to collaborate on **GitHub**
 
 - 👨‍💻 All of my projects are available at [https://gothamknight07.github.io/](https://gothamknight07.github.io/)
-
-- 📝 I regularly write articles on [AI/NLP/Speech Recognition/ Computer Vision](AI/NLP/Speech Recognition/ Computer Vision)
 
 - 💬 Ask me about **AI/ML/DL/Programming**
 
